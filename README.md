@@ -6,6 +6,7 @@ We accept CashApp, PayPal, Card and Crypto, +more
 -- MOONSEC --
 Note: The "This-Will-Be-MoonSec-in-Future" is exist possible next year/month and dis one is print("Hello World") LOL - Supported all as luarmor
 Minimum Obfuscation: 260kb - 530kb, Big files: 500kb - 1.2 MB+
+The upgraded version is very chaotic, free :), Massive problem: Slowest
 MoonSec: https://discord.gg/MoonSec (Send files to the Obfuscator Bot to secure your scripts)
 MoonSec is sometimes broke and slow, if error occured beautify it at goonlinetools.com
 -- xD --
