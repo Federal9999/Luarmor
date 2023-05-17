@@ -9,11 +9,15 @@ Minimum Obfuscation: 260kb - 530kb, Big files: 500kb - 1.2 MB+
 The upgraded version is very chaotic, free :), Massive problem: Slowest
 MoonSec: https://discord.gg/MoonSec (Send files to the Obfuscator Bot to secure your scripts)
 MoonSec is sometimes broke and slow, if error occured beautify it at goonlinetools.com
--- xD --
-and i hope you read it cuz im exist
-thats all Lol
+-- PSU (DOWN) --
+PSU Obfuscator is currently down, https://psu.dev/
+-- Comet Obfuscator --
+Comet obfuscator will release soon
+-- Extra --
+The fiveM obfuscator is MoonSec
+The win11 source code is useless most
+-- --
 
-and why are you still reading
 
 
 e
