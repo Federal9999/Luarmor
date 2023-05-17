@@ -1,3 +1,6 @@
+IMPORTANT: IF YOU WERE GET DISTRACTED BY TOO MANY WORDS, VIEW THE RAW thanks for reading this msg... now real below
+
+
 -- Luarmor (Paid) --
 Note: The "This-Will-Be-Luarmor-in-Future" is still in development and btw that script is print("Hello World") xD - Supported: lua 5.3,Fivem,roblox and, gamesense
 TIP: Luarmor is like 2.7x secured than MoonSec
