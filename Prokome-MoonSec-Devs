@@ -1,0 +1,16 @@
+-- Prokome v2.1.5C
+-- Level Obfuscation: 1
+return(function(...) local ... = "Connect.end" then do
+local v1 = "Prokome.script.asset"
+  local v2 = "Prokome.print("Hello World")
+    local v3 = "Prokome.lib.nil"
+      local v4 "Jmp.fucks = nil"
+        local v5 = "empty.script.msg"
+          local v6 = ""
+            local v7 = "Prokome.execute.DLL.insult.byfron = false"
+              local v8 = "finish.script"
+                local v8A = "Reboot.end"
+                  local v9 = "Sleesh.break;end end end end"
+         then do
+(( 1 + 1 sum, while sum then do nil ))
+                  Reboot.end break;end end end end
