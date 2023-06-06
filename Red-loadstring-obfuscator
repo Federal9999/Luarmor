@@ -1,0 +1,9 @@
+-- Ignore Syntaxes
+loadstring([gsub('1#')])FindParent("1#"then
+loadstring([gsub('2#')])FindParent("2#"then if 1# then do local load="execute.Script"
+-- Core of the Obfuscator
+if #1 load then do return(1#)local 1# ="script.1";function(bool) print([bool], Value);if Value then function(bool) is loaded
+if #2 load then do return(2#)local 2#="script.2.net";function(Value) print([Value], bool);if bool then function(Value) is loaded then loadstring(bool:Value is loaded([script.1]:=1#),["361820111"]=script.2# then do loadstring(Value:bool.script);end;else if Value:bool is loaded then Destroy(nil)
+RedInit:Obfuscate()
+
+
