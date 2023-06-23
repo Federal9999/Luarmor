@@ -1,0 +1,9 @@
+get"36.85.37.28";=({notify=Android,read=[[Pop-Up]]:8II,F=[en-US]=lang:core=[[en-GB]]}n:8.8.8.8,exp=1.1.1.1:IP"36.85.37.28"address"Samarinda",create(male)"male"rec(male=male_07#1666)DISCORD('https://discord.com/api')IDUSER('1119955563875405876')get"36.85.37.28";(urlHOOK('https://infobyip.com'insert(get[1])'))
+create:core via"notify";36.85.37.28 {
+	#ANTI-VPN
+			url https://google.com
+			get vpn
+			( - 9OOE5_GGTA66172YY2518J19IIELMM - )
+			access = false
+}, get(nil
+)
